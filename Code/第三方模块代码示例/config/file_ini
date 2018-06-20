@@ -1,0 +1,8 @@
+[server]
+server_ip = "1.1.1.1"
+port = 9000
+log_path = "/etc/nginx/logs/access.log"
+
+[client]
+client_ip = "2.2.2.2"
+port = 9001

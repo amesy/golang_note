@@ -1,0 +1,30 @@
+2018/06/20 22:14:38.631 [D] this is a debug log.
+2018/06/20 22:14:38.631 [D] this is a trace log.
+2018/06/20 22:14:38.631 [W] this is a warn log.
+2018/06/20 22:32:41.566 [D] this is a debug log.
+2018/06/20 22:32:41.566 [D] this is a trace log.
+2018/06/20 22:32:41.566 [W] this is a warn log.
+---
+
+2018/06/20 22:34:00.229 [D] this is a debug log.
+2018/06/20 22:34:00.229 [D] this is a trace log.
+2018/06/20 22:34:00.229 [W] this is a warn log.
+2018/06/20 22:34:09.764 [D] this is a debug log.
+2018/06/20 22:34:09.764 [D] this is a trace log.
+2018/06/20 22:34:09.764 [W] this is a warn log.
+
+---
+
+
+2018/06/20 22:35:36.595 [D] this is a debug log.
+2018/06/20 22:36:50.769 [D] this is a debug log.
+2018/06/20 23:12:45.841 [D] this is a debug log.
+2018/06/20 23:12:45.841 [D] this is a trace log.
+2018/06/20 23:12:45.841 [W] this is a warn log.
+
+======
+
+2018/06/20 23:13:24.216 [W] this is a warn log.
+2018/06/20 23:13:32.603 [W] this is a warn log.
+2018/06/20 23:13:34.026 [W] this is a warn log.
+2018/06/20 23:13:35.767 [W] this is a warn log.
