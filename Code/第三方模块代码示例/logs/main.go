@@ -8,13 +8,16 @@ import (
 )
 
 func init() {
+	// 自定义日志格式信息。
 	log.SetPrefix("TRACE: ")
 	log.SetFlags(log.Ldate | log.Lmicroseconds | log.Llongfile)
 }
 
 func main() {
 	config := make(map[string]interface{})
+	// 若日志文件不存在，linux下会自动创建。
 	config["filename"] = "/golang/go_dev/Project/Exercise/logs/logs.log"
+	// 定义日志级别。
 	config["level"] = logs.LevelWarn
 
 	configStr, err := json.Marshal(config)
